@@ -42,9 +42,11 @@ ResAI-Backend/files/
 AI-Research-Copilot-Backend/files/
 *.pdf
 
-# Databases
+# Databases & Vector Indices
 *.db
 *.sqlite3
+indexes/
+ResAI-Backend/indexes/
 
 # IDE
 .vscode/
